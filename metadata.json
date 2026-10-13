@@ -1,0 +1,6 @@
+{
+  "name": "ConcreteAI - Civil Engineering Data Analytics & Mix Optimizer",
+  "description": "Interactive civil engineering concrete compressive strength predictive analytics, machine learning regression models, mix design inverse calculator, and AI engineering assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
